@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.abcpoint.online/sitemap.xml
+
+
